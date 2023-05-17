@@ -1,0 +1,57 @@
+_repo: The-miracle-of-Saint-Anthony_70550
+_version: 0.0.1
+alternative_title: Le miracle de saint Antoine. English
+contributor:
+  author_of_introduction:
+    agent_name: Maurice, Arthur Bartlett
+    alias: Maurice, Arthur B.
+    birthdate: 1873
+    deathdate: 1946
+    gutenberg_agent_id: '6870'
+    url: http://www.gutenberg.org/2009/agents/6870
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Bartlett_Maurice
+  translator:
+    agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - Mattos, Alexander Teixeira de
+    - Teixeira de Mattos, Alexander Louis
+    - De Mattos, Alexander Teixeira
+    - Mattos, Alexander Teixera de
+    - Mattos, Alexander Teixeria de
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Teixeira_de_Mattos
+creator:
+  author:
+    agent_name: Maeterlinck, Maurice
+    birthdate: 1862
+    deathdate: 1949
+    gutenberg_agent_id: '795'
+    url: http://www.gutenberg.org/2009/agents/795
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Maurice_Maeterlinck
+    - https://fr.wikipedia.org/wiki/Maurice_Maeterlinck
+description: ''
+gutenberg_issued: '2023-04-14'
+identifiers:
+  gutenberg: '70550'
+  lccn: '18013128'
+language: en
+pgterms:marc904: https://archive.org/details/miracleofsaintan00maetiala
+pgterms:marc905: 20210622163143maeterlinc
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Mark C. Orton and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bDodd, Mead and Company, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anthony, of Padua, Saint, 1195-1231 -- Drama'
+- !lcc 'PQ'
+- GITenberg
+title: The miracle of Saint Anthony
+url: http://www.gutenberg.org/ebooks/70550
