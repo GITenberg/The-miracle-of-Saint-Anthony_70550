@@ -23,6 +23,9 @@ contributor:
     gutenberg_agent_id: '736'
     url: http://www.gutenberg.org/2009/agents/736
     wikipedia: https://en.wikipedia.org/wiki/Alexander_Teixeira_de_Mattos
+covers:
+- cover_type: archival
+  image_path: 70550-h/images/cover.jpg
 creator:
   author:
     agent_name: Maeterlinck, Maurice
@@ -34,6 +37,8 @@ creator:
     - https://en.wikipedia.org/wiki/Maurice_Maeterlinck
     - https://fr.wikipedia.org/wiki/Maurice_Maeterlinck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70550#The-miracle-of-Saint-Anthony
 gutenberg_issued: '2023-04-14'
 identifiers:
   gutenberg: '70550'
